@@ -1,4 +1,4 @@
-# System
+# System diagram
 
 ```plantuml
 @startuml
